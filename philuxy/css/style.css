@@ -1,0 +1,22 @@
+.html{
+	width: 100%;
+}
+
+.main{
+	width: 986px;
+	margin-top: : 50px;
+}
+
+.title-text{
+	margin-top: 80px;
+}
+.head-image{
+	max-width: 250px;
+	max-height: 300px;
+}
+h3{
+	color: blueviolet;
+}
+section{
+	padding: 0;
+}

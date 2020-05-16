@@ -1,0 +1,82 @@
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+    font-size: 20px;
+    
+}
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+.navbar-inverse{
+	background: rgb(108, 90, 255, 0.72);
+	border: none;
+}
+
+html, body , .cover{
+	height: 100%;
+	width: 100%;
+	font-family: "Montserat", sans-serif;
+}
+.category-menu{
+	margin-top: 15em;
+}
+
+.cate-list{
+	width: 80px;
+	height: 100px;
+	background-color: gray;
+}
+
+.title-text h3{
+	font-family: Arial, sans-serif;
+	font-size: 3.5rem;
+	font-weight: 600;
+	margin-top: 100px;
+	color: blue;
+
+}
+
+section{
+	padding: 0;
+}
+.head-img{
+	height: 70vh;
+    width: auto;
+    margin-top: 80px;
+}
+
+.btn-start{
+	border-radius: 20%;
+	background-color: white;
+	color: blue;
+	font-weight: 600;
+	border: 3px solid black;
+}
+.ads{
+	height: 250px;
+    width: 400px;
+    margin-bottom: 30px;
+}
+
+ .contact{
+ 	padding: 20px;
+ 	margin-top: 30px;
+ 	
+ }
+
+ /* About Us  */
+ .about.us{
+
+ }
+
+/*=====================================
+=
+Footer Style            =
+=====================================*/
+footer{
+	background: #24292e;
+	color: white;
+	height: 300px;
+}
+
+/*=====  End of
+Footer Style  ======*/
